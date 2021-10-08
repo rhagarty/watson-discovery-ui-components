@@ -294,4 +294,8 @@ From the client-side perspective, the call to instantiate a Discovery service in
 
 In this tutorial, we detailed how to navigate the Watson Discovery tooling to create a project and upload data into a collection. We then showed how to enrich the data and build a custom search panel to query and visualize the data.
 
+![final-disco-panel](images/final-disco-panel.png)
+
 Lastly, we replicated the same search panel in a custom application by utilizing the Watson Discovery UI Components.
+
+![final-app-panel](images/final-app-panel.png)
